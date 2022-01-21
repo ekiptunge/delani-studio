@@ -1,6 +1,6 @@
 # DELANI STUDIO
 #### A fictional studio landind page. 
-Pulished date : 21/01/2018
+Pulished date : 21/01/2022
 #### By **EMMANUEL KIPTUNGE**
 ## Description
 This is a site of a company that show case the project done by individuals programmer and can host their work by posting their projects and its also a studio of invension.
