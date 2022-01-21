@@ -6,28 +6,28 @@
 
 $("document").ready(function () {
     $("#design-image").click(function() {
-        $("#design-image").hide("2000");
-        $("#design").show("2000");
+        $("#design-image").hide("2500");
+        $("#design").show("2500");
     })
     $("#design").click(function() {
-        $("#design").hide("2000");
-        $("#design-image").show("2000")
+        $("#design").hide("2500");
+        $("#design-image").show("2500")
     })
     $("#dev-image").click(function() {
-        $("#dev-image").hide("2000");
-        $("#dev").show("2000");
+        $("#dev-image").hide("2500");
+        $("#dev").show("2500");
     })
     $("#dev").click(function() {
-        $("#dev").hide("2000");
-        $("#dev-image").show("2000");
+        $("#dev").hide("2500")       
+        $("#dev-image").show("2500");
     })
     $("#product-image").click(function() {
-        $("#product-image").hide("2000");
-        $("#product").show("2000");
+        $("#product-image").hide("2500");
+        $("#product").show("2500");
     })
     $("#product").click(function() {
-        $("#product").hide("2000");
-        $("#produt-image").show("2000");
+        $("#product").hide("2500");
+        $("#produt-image").show("2500");
     })
     //toggle function
     $("#work4").hover(function() {
