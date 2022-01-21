@@ -1,0 +1,133 @@
+#welcome{
+    background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10rem;
+    margin-bottom: 40px;
+}
+.logo{
+text-align: center;
+padding-bottom: 5rem;
+}
+
+.mouse{
+text-align: center;
+}
+#services{
+    background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10rem;
+    margin-bottom:40px;
+    color: white;
+}.about{
+    margin-top: 30rem;
+}
+#what-we-do h1{
+    text-align: center;
+}
+#what-we-do{
+    margin: 50px;
+    color: black;
+}
+.container h1{
+    text-align: center;
+}
+ #work4{
+    position: relative;
+} 
+#mouse-hover1{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover2{
+    position: absolute;
+    display: none;
+    color:maroon;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover3{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover4{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover5{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover6{
+    position: absolute;
+    display: none;
+    color: rgb(131, 0, 0);
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover7{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}#mouse-hover8{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+
+.mouse-hover2 {
+    position: absolute;
+    display: none;
+}
+ #work3 {
+    position: relative;
+}
+.mouse-hover2 {
+    position: absolute;
+    display: none;
+}
+#contact-us{
+    background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 40px;
+}
+
+
+.required{
+background-color: transparent;
+display: transparent;
+}
+#mc_embed_signup {
+    background-color: transparent;
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
+}
+#design,#dev,#product {
+    display: none;
+}
