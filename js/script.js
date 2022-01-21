@@ -1,3 +1,9 @@
+//creating function to show and hide images
+//using getElementById on manupulation
+//to add function to toggle between the icons and the text
+// introduction of a variable
+//calling the function using alert();
+
 $("document").ready(function () {
     $("#design-image").click(function() {
         $("#design-image").hide("2000");
@@ -23,7 +29,7 @@ $("document").ready(function () {
         $("#product").hide("2000");
         $("#produt-image").show("2000");
     })
-    //portfolio section
+    //toggle function
     $("#work4").hover(function() {
         $("#mouse-hover1").toggle();
     });
