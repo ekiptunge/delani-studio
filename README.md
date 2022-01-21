@@ -5,7 +5,7 @@ Pulished date : 21/01/2018
 ## Description
 This is a site of a company that show case the project done by individuals programmer and can host their work by posting their projects and its also a studio of invension.
 ## Setup/Installation Requirements
-Available on Github page: https://ekiptunge.github.io/akan-names/ , It can run on any browser.
+Available on Github page: https://ekiptunge.github.io/delani-studio/, It can run on any browser.
 ## Known Bugs
 Some output are not as accurate as expected. Reach out to me incase of any bags.
 ## Technologies Used
