@@ -1,5 +1,5 @@
 # DELANI STUDIO
-#### A fictional studio landind page. 
+#### A fictional studio landing page. 
 Pulished date : 21/01/2022
 #### By **EMMANUEL KIPTUNGE**
 ## Description
