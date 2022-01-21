@@ -3,7 +3,7 @@
 Pulished date : 21/01/2022
 #### By **EMMANUEL KIPTUNGE**
 ## Description
-This is a site of a company that show case the project done by individual programmers and can host their work by posting their projects and its also a studio of invension.
+This is a site of a company that show case the project done by individual programmers and can host their work by posting their projects and it's also a studio of invension.
 ## Setup/Installation Requirements
 Available on Github page: https://ekiptunge.github.io/delani-studio/, It can run on any browser.
 ## Known Bugs
